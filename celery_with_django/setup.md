@@ -1,8 +1,4 @@
-# SendingEmails.conf-celery
-
 # setup celery with django and redis
-
-learn configrations for celery and sending emails
 
 ## packages (set in INSTALLED_APPS)
 
