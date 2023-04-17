@@ -45,7 +45,7 @@ learn configrations for celery and sending emails
     EMAIL_HOST = "smtp.gmail.com"
     EMAIL_PORT = 587
     EMAIL_HOST_USER = "sending account"                # come from your google account
-    EMAIL_HOST_PASSWORD = "google password"         # come from your (1-"google account manager" 2-"security" 3-"apps passwords")
+    EMAIL_HOST_PASSWORD = "google password"         # come from your (1-"google account manager" 2-"security" 3- 2step verification 4-"apps passwords")
     DEFAULT_FROM_EMAIL = "default from email"
 
 ##### 2- **init**.py
